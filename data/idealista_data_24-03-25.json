@@ -1,0 +1,4007 @@
+[
+    {
+        "Title": "Camera in via Carlo Pedrotti, 16, Aurora, Torino",
+        "Price (Euro)": "520€/mese",
+        "Area (m²)": "65",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Carlo Pedrotti, 16"
+    },
+    {
+        "Title": "Camera in corso Carlo e Nello Rosselli, 128, Borgo San Paolo, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "125",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Corso Carlo e Nello Rosselli, 128"
+    },
+    {
+        "Title": "Camera in via Breglio, 50, Borgo Vittoria, Torino",
+        "Price (Euro)": "485€/mese",
+        "Area (m²)": "65",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Breglio, 50"
+    },
+    {
+        "Title": "Camera in via Breglio, 50, Borgo Vittoria, Torino",
+        "Price (Euro)": "475€/mese",
+        "Area (m²)": "65",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Breglio, 50"
+    },
+    {
+        "Title": "Camera in via delle Rosine, 8, Centro, Torino",
+        "Price (Euro)": "565€/mese",
+        "Area (m²)": "65",
+        "Floor": "4",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via delle Rosine, 8"
+    },
+    {
+        "Title": "Camera in via Madama Cristina, 69, San Salvario, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "N/A",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Madama Cristina, 69"
+    },
+    {
+        "Title": "Camera a Nizza Millefonti, Torino",
+        "Price (Euro)": "780€/mese",
+        "Area (m²)": "157",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Nizza Millefonti"
+    },
+    {
+        "Title": "Camera in corso Carlo e Nello Rosselli, 115, Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "65",
+        "Floor": "3",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Carlo e Nello Rosselli, 115"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "1.350€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Rebaudengo, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "75",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Rebaudengo"
+    },
+    {
+        "Title": "Camera in via San Marino, 41, Santa Rita, Torino",
+        "Price (Euro)": "375€/mese",
+        "Area (m²)": "82",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via San Marino, 41"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "805€/mese",
+        "Area (m²)": "103",
+        "Floor": "8",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera in via Luigi Chiala, s.n.c, Mirafiori Sud, Torino",
+        "Price (Euro)": "480€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Luigi Chiala s.n.c"
+    },
+    {
+        "Title": "Camera in corso Racconigi, 32 --- bis, Cenisia, Torino",
+        "Price (Euro)": "381€/mese",
+        "Area (m²)": "130",
+        "Floor": "5",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Corso Racconigi, 32 --- bis"
+    },
+    {
+        "Title": "Camera in via Rivalta, 27, Borgo San Paolo, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "70",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Rivalta, 27"
+    },
+    {
+        "Title": "Camera in via Genova, 31, Nizza Millefonti, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "107",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Genova, 31"
+    },
+    {
+        "Title": "Camera a Crocetta, Torino",
+        "Price (Euro)": "850€/mese",
+        "Area (m²)": "250",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "3",
+        "Location": "Zona Crocetta"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "560€/mese",
+        "Area (m²)": "150",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera in via Antonio Gramsci, 1, Centro, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Antonio Gramsci, 1"
+    },
+    {
+        "Title": "Camera in via Luigi Tarino, 14, Vanchiglia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "115",
+        "Floor": "5",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Luigi Tarino, 14"
+    },
+    {
+        "Title": "Camera in via Giuseppe Grassi, 10, Cit Turin, Torino",
+        "Price (Euro)": "390€/mese",
+        "Area (m²)": "13",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Giuseppe Grassi, 10"
+    },
+    {
+        "Title": "Camera in corso Telesio, 64, Parella, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "100",
+        "Floor": "5",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Telesio, 64"
+    },
+    {
+        "Title": "Camera in via Moretta, 11, Cenisia, Torino",
+        "Price (Euro)": "278€/mese",
+        "Area (m²)": "75",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Moretta, 11"
+    },
+    {
+        "Title": "Camera in via Perosa, 62, Cenisia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "61",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Perosa, 62"
+    },
+    {
+        "Title": "Camera in via Renato Martorelli, 75, Barriera di Milano, Torino",
+        "Price (Euro)": "254€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Renato Martorelli, 75"
+    },
+    {
+        "Title": "Camera in via Giovanni Servais, 37, Parella, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "70",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Giovanni Servais, 37"
+    },
+    {
+        "Title": "Camera in via Abate Pietro Chanoux, 12, Pozzo Strada, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "65",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Abate Pietro Chanoux, 12"
+    },
+    {
+        "Title": "Camera in corso Giovanni Agnelli, 48, Santa Rita, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "23",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Giovanni Agnelli, 48"
+    },
+    {
+        "Title": "Camera in via Amerigo Vespucci, 75, Crocetta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "30",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Amerigo Vespucci, 75"
+    },
+    {
+        "Title": "Camera in via Principe Tommaso, 42, San Salvario, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "26",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Principe Tommaso, 42"
+    },
+    {
+        "Title": "Camera a Filadelfia, Torino",
+        "Price (Euro)": "590€/mese",
+        "Area (m²)": "86",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Filadelfia"
+    },
+    {
+        "Title": "Camera in via Parma, 11, Aurora, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Parma, 11"
+    },
+    {
+        "Title": "Camera in via Gian Domenico Cassini, s.n.c, Crocetta, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "25",
+        "Floor": "3",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Gian Domenico Cassini s.n.c"
+    },
+    {
+        "Title": "Camera in corso Filippo Turati, 23, Crocetta, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "15",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Filippo Turati, 23"
+    },
+    {
+        "Title": "Camera in corso Cairoli, 4, Centro, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "15",
+        "Floor": "4",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Cairoli, 4"
+    },
+    {
+        "Title": "Camera in via Monginevro, 50, Borgo San Paolo, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "83",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Monginevro, 50"
+    },
+    {
+        "Title": "Camera in via Ormea, 133 b, San Salvario, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "25",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Ormea, 133 b"
+    },
+    {
+        "Title": "Camera in via Filadelfia, 132, Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "96",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Filadelfia, 132"
+    },
+    {
+        "Title": "Camera in via Principe Tommaso, 35, San Salvario, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "97",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Principe Tommaso, 35"
+    },
+    {
+        "Title": "Camera in via Arnaldo da Brescia, 25, Filadelfia, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "15",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Arnaldo da Brescia, 25"
+    },
+    {
+        "Title": "Camera in via Po, 3, Centro, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "166",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Po, 3"
+    },
+    {
+        "Title": "Camera in via Renato Martorelli, 75, Barriera di Milano, Torino",
+        "Price (Euro)": "254€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Renato Martorelli, 75"
+    },
+    {
+        "Title": "Camera in via San Massimo, 44, Centro, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "15",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via San Massimo, 44"
+    },
+    {
+        "Title": "Camera in via San Donato, 40, San Donato, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via San Donato, 40"
+    },
+    {
+        "Title": "Camera in via Rodolfo Renier, 7, Borgo San Paolo, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "18",
+        "Floor": "4",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Rodolfo Renier, 7"
+    },
+    {
+        "Title": "Camera in corso Monte Grappa, 19, Parella, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "116",
+        "Floor": "4",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Corso Monte Grappa, 19"
+    },
+    {
+        "Title": "Camera in via Tolmino, s.n.c, Borgo San Paolo, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "93",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Tolmino s.n.c"
+    },
+    {
+        "Title": "Camera in via principe tommaso, 35, San Salvario, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "97",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via principe tommaso, 35"
+    },
+    {
+        "Title": "Camera in via Sant'Ottavio, 13, Centro, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "70",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Sant'Ottavio, 13"
+    },
+    {
+        "Title": "Camera in via Giovanni Servais, 37, Parella, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "70",
+        "Floor": "3",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Giovanni Servais, 37"
+    },
+    {
+        "Title": "Camera in via Eusebio Bava, 47, Vanchiglia, Torino",
+        "Price (Euro)": "470€/mese",
+        "Area (m²)": "100",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Eusebio Bava, 47"
+    },
+    {
+        "Title": "Camera in corso Alcide De Gasperi, 21, Crocetta, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "87",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Corso Alcide De Gasperi, 21"
+    },
+    {
+        "Title": "Camera in piazza De Amicis, 127, San Salvario, Torino",
+        "Price (Euro)": "272€/mese",
+        "Area (m²)": "150",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "3",
+        "Location": "Piazza De Amicis, 127"
+    },
+    {
+        "Title": "Camera in via Ormea, 65, San Salvario, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "109",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Ormea, 65"
+    },
+    {
+        "Title": "Camera in via Ormea, 65, San Salvario, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "109",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Ormea, 65"
+    },
+    {
+        "Title": "Camera in via Genova, 152, Nizza Millefonti, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "90",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Genova, 152"
+    },
+    {
+        "Title": "Camera in corso Palestro, s.n.c, Centro, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "20",
+        "Floor": "4",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Palestro s.n.c"
+    },
+    {
+        "Title": "Camera in corso Belgio 86, 86, Vanchiglietta, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "90",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Corso Belgio 86, 86"
+    },
+    {
+        "Title": "Camera in corso Trapani, 104, Pozzo Strada, Torino",
+        "Price (Euro)": "880€/mese",
+        "Area (m²)": "154",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Trapani, 104"
+    },
+    {
+        "Title": "Camera in corso Trapani, 104, Pozzo Strada, Torino",
+        "Price (Euro)": "1.500€/mese",
+        "Area (m²)": "154",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Trapani, 104"
+    },
+    {
+        "Title": "Camera in corso Trapani, 104, Pozzo Strada, Torino",
+        "Price (Euro)": "780€/mese",
+        "Area (m²)": "154",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Trapani, 104"
+    },
+    {
+        "Title": "Camera in via Genova, 152, Nizza Millefonti, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "90",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Genova, 152"
+    },
+    {
+        "Title": "Camera in corso Palestro, s.n.c, Centro, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "20",
+        "Floor": "4",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Palestro s.n.c"
+    },
+    {
+        "Title": "Camera in corso Belgio 86, 86, Vanchiglietta, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "90",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Corso Belgio 86, 86"
+    },
+    {
+        "Title": "Camera in via Arvier, Pozzo Strada, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "40",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Arvier"
+    },
+    {
+        "Title": "Camera a Crocetta, Torino",
+        "Price (Euro)": "850€/mese",
+        "Area (m²)": "250",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "3",
+        "Location": "Zona Crocetta"
+    },
+    {
+        "Title": "Camera a Crocetta, Torino",
+        "Price (Euro)": "825€/mese",
+        "Area (m²)": "250",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "3",
+        "Location": "Zona Crocetta"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "510€/mese",
+        "Area (m²)": "171",
+        "Floor": "1",
+        "Rooms": "7",
+        "Bathrooms": "3",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Borgo Vittoria, Torino",
+        "Price (Euro)": "475€/mese",
+        "Area (m²)": "130",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Borgo Vittoria"
+    },
+    {
+        "Title": "Camera a Borgo Vittoria, Torino",
+        "Price (Euro)": "475€/mese",
+        "Area (m²)": "130",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Borgo Vittoria"
+    },
+    {
+        "Title": "Camera in via Santa Giulia, 57, Vanchiglia, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "150",
+        "Floor": "3",
+        "Rooms": "6",
+        "Bathrooms": "3",
+        "Location": "Via Santa Giulia, 57"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.060€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.060€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Nizza Millefonti, Torino",
+        "Price (Euro)": "680€/mese",
+        "Area (m²)": "157",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Nizza Millefonti"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "970€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.030€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera in corso Carlo e Nello Rosselli, 92, Crocetta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Corso Carlo e Nello Rosselli, 92"
+    },
+    {
+        "Title": "Camera in corso Eusebio Giambone, 7, Filadelfia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "80",
+        "Floor": "8",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Eusebio Giambone, 7"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 25, Vanchiglietta, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Antonio Fontanesi, 25"
+    },
+    {
+        "Title": "Camera in via Corrado Corradino, Mirafiori Sud, Torino",
+        "Price (Euro)": "375€/mese",
+        "Area (m²)": "107",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Corrado Corradino"
+    },
+    {
+        "Title": "Camera in corso Massimo d'Azeglio, 112, San Salvario, Torino",
+        "Price (Euro)": "410€/mese",
+        "Area (m²)": "18",
+        "Floor": "2",
+        "Rooms": "1",
+        "Bathrooms": "2",
+        "Location": "Corso Massimo d'Azeglio, 112"
+    },
+    {
+        "Title": "Camera in via Bernardino Galliari, San Salvario, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "50",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Bernardino Galliari"
+    },
+    {
+        "Title": "Camera in corso Francia, 165, Pozzo Strada, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "135",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "3",
+        "Location": "Corso Francia, 165"
+    },
+    {
+        "Title": "Camera in via Vandalino 82, 82, Pozzo Strada, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Vandalino 82, 82"
+    },
+    {
+        "Title": "Camera in corso Francia, 272, Parella, Torino",
+        "Price (Euro)": "390€/mese",
+        "Area (m²)": "105",
+        "Floor": "5",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Francia, 272"
+    },
+    {
+        "Title": "Camera in via Asiago, 40, Pozzo Strada, Torino",
+        "Price (Euro)": "490€/mese",
+        "Area (m²)": "16",
+        "Floor": "5",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Asiago, 40"
+    },
+    {
+        "Title": "Camera in corso Lecce, s.n.c, Campidoglio, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "100",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Lecce s.n.c"
+    },
+    {
+        "Title": "Camera in corso Francia, 272, Parella, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "105",
+        "Floor": "5",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Francia, 272"
+    },
+    {
+        "Title": "Camera in corso Francia, 272, Parella, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "105",
+        "Floor": "5",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Francia, 272"
+    },
+    {
+        "Title": "Camera in via Pasquale Paoli, 40, Filadelfia, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "70",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Pasquale Paoli, 40"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "525€/mese",
+        "Area (m²)": "79",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in via Alessandria, 28, Aurora, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "120",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Alessandria, 28"
+    },
+    {
+        "Title": "Camera in via Zumaglia, 17, Parella, Torino",
+        "Price (Euro)": "250€/mese",
+        "Area (m²)": "68",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Zumaglia, 17"
+    },
+    {
+        "Title": "Camera in via Arnaldo da Brescia, 25, Filadelfia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Arnaldo da Brescia, 25"
+    },
+    {
+        "Title": "Camera in via Bernardino Luini, 61, Madonna di Campagna, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "61",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Bernardino Luini, 61"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "540€/mese",
+        "Area (m²)": "79",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Crocetta, Torino",
+        "Price (Euro)": "850€/mese",
+        "Area (m²)": "250",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "3",
+        "Location": "Zona Crocetta"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "485€/mese",
+        "Area (m²)": "72",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "216",
+        "Floor": "1",
+        "Rooms": "8",
+        "Bathrooms": "5",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "520€/mese",
+        "Area (m²)": "216",
+        "Floor": "1",
+        "Rooms": "8",
+        "Bathrooms": "5",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Borgo Vittoria, Torino",
+        "Price (Euro)": "485€/mese",
+        "Area (m²)": "130",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Borgo Vittoria"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "520€/mese",
+        "Area (m²)": "216",
+        "Floor": "1",
+        "Rooms": "8",
+        "Bathrooms": "5",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in via Silvio Pellico, 4, San Salvario, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "85",
+        "Floor": "1",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Silvio Pellico, 4"
+    },
+    {
+        "Title": "Camera in via Alessandria, 28, Aurora, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "120",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Alessandria, 28"
+    },
+    {
+        "Title": "Camera in via Gioacchino Quarello, 22 a, Mirafiori Sud, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "145",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Gioacchino Quarello, 22 A"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "127",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Borgo Vittoria, Torino",
+        "Price (Euro)": "485€/mese",
+        "Area (m²)": "130",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Borgo Vittoria"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.080€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.090€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "15",
+        "Floor": "1",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "535€/mese",
+        "Area (m²)": "700",
+        "Floor": "N/A",
+        "Rooms": "29",
+        "Bathrooms": "11",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.020€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "15",
+        "Floor": "1",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.090€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "505€/mese",
+        "Area (m²)": "700",
+        "Floor": "N/A",
+        "Rooms": "29",
+        "Bathrooms": "11",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera in corso Raffaello, 7, San Salvario, Torino",
+        "Price (Euro)": "560€/mese",
+        "Area (m²)": "120",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Corso Raffaello, 7"
+    },
+    {
+        "Title": "Camera in via Fatebenefratelli, 4, Mirafiori Nord, Torino",
+        "Price (Euro)": "295€/mese",
+        "Area (m²)": "93",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Fatebenefratelli, 4"
+    },
+    {
+        "Title": "Camera in via Paesana, 19, Borgo San Paolo, Torino",
+        "Price (Euro)": "560€/mese",
+        "Area (m²)": "100",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Paesana, 19"
+    },
+    {
+        "Title": "Camera in corso Francesco Ferrucci, 92, Cenisia, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Francesco Ferrucci, 92"
+    },
+    {
+        "Title": "Camera in via Luigi Cibrario, 106, Campidoglio, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "100",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Luigi Cibrario, 106"
+    },
+    {
+        "Title": "Camera in via Fatebenefratelli, 4, Mirafiori Nord, Torino",
+        "Price (Euro)": "295€/mese",
+        "Area (m²)": "93",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Fatebenefratelli, 4"
+    },
+    {
+        "Title": "Camera in strada Castello di Mirafiori, 19, Mirafiori Sud, Torino",
+        "Price (Euro)": "335€/mese",
+        "Area (m²)": "110",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Strada Castello di Mirafiori, 19"
+    },
+    {
+        "Title": "Camera in via Muriaglio, 13, Borgo San Paolo, Torino",
+        "Price (Euro)": "580€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Muriaglio, 13"
+    },
+    {
+        "Title": "Camera in corso Vittorio Emanuele II, 111, Crocetta, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "240",
+        "Floor": "2",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Corso Vittorio Emanuele II, 111"
+    },
+    {
+        "Title": "Camera in via Luigi Des Ambrois, 2, Centro, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Luigi Des Ambrois, 2"
+    },
+    {
+        "Title": "Camera in via Filadelfia, 23, Filadelfia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "85",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Filadelfia, 23"
+    },
+    {
+        "Title": "Camera in via Ormea, s.n.c, San Salvario, Torino",
+        "Price (Euro)": "460€/mese",
+        "Area (m²)": "100",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Ormea s.n.c"
+    },
+    {
+        "Title": "Camera in corso Rosselli 105/10, 105 /10, Santa Rita, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "90",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Corso Rosselli 105/10, 105 /10"
+    },
+    {
+        "Title": "Camera in via Brandizzo, 39, Barriera di Milano, Torino",
+        "Price (Euro)": "700€/mese",
+        "Area (m²)": "15",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Brandizzo, 39"
+    },
+    {
+        "Title": "Camera in corso Principe Oddone, 27, San Donato, Torino",
+        "Price (Euro)": "445€/mese",
+        "Area (m²)": "45",
+        "Floor": "3",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Principe Oddone, 27"
+    },
+    {
+        "Title": "Camera in via Tunisi, 125, Filadelfia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "75",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Tunisi, 125"
+    },
+    {
+        "Title": "Camera in via Montevideo, 16, Filadelfia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "110",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Montevideo, 16"
+    },
+    {
+        "Title": "Camera in corso Sebastopoli, 57, Filadelfia, Torino",
+        "Price (Euro)": "540€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "2",
+        "Location": "Corso Sebastopoli, 57"
+    },
+    {
+        "Title": "Camera in via Germanasca, 2, Cenisia, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "140",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "3",
+        "Location": "Via Germanasca, 2"
+    },
+    {
+        "Title": "Camera in via Boston, 60, Santa Rita, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "140",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Boston, 60"
+    },
+    {
+        "Title": "Camera in via Eleonora d'Arborea, 5, Mirafiori Nord, Torino",
+        "Price (Euro)": "470€/mese",
+        "Area (m²)": "134",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Eleonora d'Arborea, 5"
+    },
+    {
+        "Title": "Camera in via Cumiana, 28, Borgo San Paolo, Torino",
+        "Price (Euro)": "255€/mese",
+        "Area (m²)": "60",
+        "Floor": "N/A",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Cumiana, 28"
+    },
+    {
+        "Title": "Camera in via Valeggio, 9, Crocetta, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "120",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Valeggio, 9"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "900€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera in Verolengo, 8, Borgo Vittoria, Torino",
+        "Price (Euro)": "460€/mese",
+        "Area (m²)": "105",
+        "Floor": "7",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Verolengo, 8"
+    },
+    {
+        "Title": "Camera in via Cesana, 82, Cenisia, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "100",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Cesana, 82"
+    },
+    {
+        "Title": "Camera a Città Giardino, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "120",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Città Giardino"
+    },
+    {
+        "Title": "Camera a Città Giardino, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "120",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Città Giardino"
+    },
+    {
+        "Title": "Camera in via Castelgomberto, 65, Santa Rita, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "90",
+        "Floor": "5",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Castelgomberto, 65"
+    },
+    {
+        "Title": "Camera in via Borgone, 5, Pozzo Strada, Torino",
+        "Price (Euro)": "290€/mese",
+        "Area (m²)": "127",
+        "Floor": "4",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Borgone, 5"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "155",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera a Campidoglio, Torino",
+        "Price (Euro)": "510€/mese",
+        "Area (m²)": "140",
+        "Floor": "1",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Quartiere Campidoglio"
+    },
+    {
+        "Title": "Camera in via Giordano Bruno, 40, Filadelfia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Giordano Bruno, 40"
+    },
+    {
+        "Title": "Camera in corso Ciriè, 35, Aurora, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "70",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Ciriè, 35"
+    },
+    {
+        "Title": "Camera a Campidoglio, Torino",
+        "Price (Euro)": "510€/mese",
+        "Area (m²)": "155",
+        "Floor": "1",
+        "Rooms": "7",
+        "Bathrooms": "3",
+        "Location": "Quartiere Campidoglio"
+    },
+    {
+        "Title": "Camera in via Cumiana, 28, Borgo San Paolo, Torino",
+        "Price (Euro)": "255€/mese",
+        "Area (m²)": "60",
+        "Floor": "N/A",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Cumiana, 28"
+    },
+    {
+        "Title": "Camera in via Francesco Petrarca, 27, San Salvario, Torino",
+        "Price (Euro)": "250€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Francesco Petrarca, 27"
+    },
+    {
+        "Title": "Camera in via Boston, 60, Santa Rita, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "140",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Boston, 60"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "850€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "155",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera in via Giordano Bruno, 40, Filadelfia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Giordano Bruno, 40"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 25, Vanchiglietta, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Antonio Fontanesi, 25"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "73",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "900€/mese",
+        "Area (m²)": "210",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "3",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Campidoglio, Torino",
+        "Price (Euro)": "510€/mese",
+        "Area (m²)": "140",
+        "Floor": "1",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Quartiere Campidoglio"
+    },
+    {
+        "Title": "Camera in via Castelgomberto, 65, Santa Rita, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "90",
+        "Floor": "5",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Castelgomberto, 65"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "575€/mese",
+        "Area (m²)": "73",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera in via Borgone, 5, Pozzo Strada, Torino",
+        "Price (Euro)": "290€/mese",
+        "Area (m²)": "127",
+        "Floor": "4",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Borgone, 5"
+    },
+    {
+        "Title": "Camera in corso Rosselli 105, 105, Santa Rita, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "160",
+        "Floor": "1",
+        "Rooms": "8",
+        "Bathrooms": "2",
+        "Location": "Corso Rosselli 105, 105"
+    },
+    {
+        "Title": "Camera in via Cesana, 23, Cenisia, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "67",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Cesana, 23"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "570€/mese",
+        "Area (m²)": "87",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera in via Cesana, 82, Cenisia, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "100",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Cesana, 82"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 32, Vanchiglietta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "140",
+        "Floor": "1",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Antonio Fontanesi, 32"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "975€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "900€/mese",
+        "Area (m²)": "210",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "3",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "975€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 32, Vanchiglietta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "120",
+        "Floor": "1",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Antonio Fontanesi, 32"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 32, Vanchiglietta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "70",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Antonio Fontanesi, 32"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "900€/mese",
+        "Area (m²)": "210",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "3",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Filadelfia, Torino",
+        "Price (Euro)": "590€/mese",
+        "Area (m²)": "86",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Filadelfia"
+    },
+    {
+        "Title": "Camera a Nizza Millefonti, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "157",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Nizza Millefonti"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.015€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Nizza Millefonti, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "157",
+        "Floor": "7",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Nizza Millefonti"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 32, Vanchiglietta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "120",
+        "Floor": "1",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Antonio Fontanesi, 32"
+    },
+    {
+        "Title": "Camera in via San Donato, 10, San Donato, Torino",
+        "Price (Euro)": "280€/mese",
+        "Area (m²)": "100",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via San Donato, 10"
+    },
+    {
+        "Title": "Camera in via Claviere, 8, Pozzo Strada, Torino",
+        "Price (Euro)": "460€/mese",
+        "Area (m²)": "90",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Claviere, 8"
+    },
+    {
+        "Title": "Camera in via Antonio Fontanesi, 32, Vanchiglietta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "70",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Antonio Fontanesi, 32"
+    },
+    {
+        "Title": "Camera in via Francesco Lanfranchi, 22, Gran Madre di Dio, Torino",
+        "Price (Euro)": "680€/mese",
+        "Area (m²)": "130",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Francesco Lanfranchi, 22"
+    },
+    {
+        "Title": "Camera in via Giovanni Argentero, 4, San Salvario, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "17",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Giovanni Argentero, 4"
+    },
+    {
+        "Title": "Camera in via Chiesa della Salute, s.n.c, Borgo Vittoria, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Chiesa della Salute s.n.c"
+    },
+    {
+        "Title": "Camera in corso Massimo d'Azeglio, 112, San Salvario, Torino",
+        "Price (Euro)": "490€/mese",
+        "Area (m²)": "20",
+        "Floor": "8",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Massimo d'Azeglio, 112"
+    },
+    {
+        "Title": "Camera in corso San Maurizio, 42, Centro, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "180",
+        "Floor": "2",
+        "Rooms": "8",
+        "Bathrooms": "2",
+        "Location": "Corso San Maurizio, 42"
+    },
+    {
+        "Title": "Camera in via Crescentino, 22, Barriera di Milano, Torino",
+        "Price (Euro)": "475€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Crescentino, 22"
+    },
+    {
+        "Title": "Camera in via Susa, 7, Cit Turin, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "110",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Susa, 7"
+    },
+    {
+        "Title": "Camera in corso San Martino, s.n.c, Centro, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "13",
+        "Floor": "5",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso SAN MARTINO s.n.c"
+    },
+    {
+        "Title": "Camera in corso Massimo d'Azeglio, 112, San Salvario, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "20",
+        "Floor": "8",
+        "Rooms": "1",
+        "Bathrooms": "2",
+        "Location": "Corso Massimo d'Azeglio, 112"
+    },
+    {
+        "Title": "Camera in via Spoleto, s.n.c, San Donato, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "6",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Spoleto s.n.c"
+    },
+    {
+        "Title": "Camera in via Riccardo Sineo, 9, Vanchiglia, Torino",
+        "Price (Euro)": "260€/mese",
+        "Area (m²)": "125",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Riccardo Sineo, 9"
+    },
+    {
+        "Title": "Camera in via Foligno, 5, Madonna di Campagna, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "15",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Foligno, 5"
+    },
+    {
+        "Title": "Camera in via Domodossola, 62, Parella, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "63",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Domodossola, 62"
+    },
+    {
+        "Title": "Camera in via Domodossola, 62, Parella, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "63",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Domodossola, 62"
+    },
+    {
+        "Title": "Camera in via Dante Di Nanni, 69, Cenisia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "60",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Dante Di Nanni, 69"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.225€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera in corso Sebastopoli, 38, Filadelfia, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "120",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Sebastopoli, 38"
+    },
+    {
+        "Title": "Camera in via Cristalliera, 18, Pozzo Strada, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Cristalliera, 18"
+    },
+    {
+        "Title": "Camera in via Alessandrina Ravizza, 7, Rebaudengo, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "65",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Alessandrina Ravizza, 7"
+    },
+    {
+        "Title": "Camera in via Eusebio Bava, 30, Vanchiglia, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "20",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Eusebio Bava, 30"
+    },
+    {
+        "Title": "Camera in via Frinco, 16, Santa Rita, Torino",
+        "Price (Euro)": "270€/mese",
+        "Area (m²)": "100",
+        "Floor": "4",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Frinco, 16"
+    },
+    {
+        "Title": "Camera a Rebaudengo, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "75",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Rebaudengo"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "800€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in strada del Drosso, 184 /d, Mirafiori Sud, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "110",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Strada del Drosso, 184 /d"
+    },
+    {
+        "Title": "Camera in via Gioacchino Quarello, 30, Mirafiori Sud, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "140",
+        "Floor": "9",
+        "Rooms": "9",
+        "Bathrooms": "2",
+        "Location": "Via Gioacchino Quarello, 30"
+    },
+    {
+        "Title": "Camera a Mirafiori Nord, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "116",
+        "Floor": "7",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Quartiere Mirafiori Nord"
+    },
+    {
+        "Title": "Camera in via Dante Di Nanni, 69, Cenisia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "60",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Dante Di Nanni, 69"
+    },
+    {
+        "Title": "Camera in corso Sebastopoli, 38, Filadelfia, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "120",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Sebastopoli, 38"
+    },
+    {
+        "Title": "Camera a San Donato, Torino",
+        "Price (Euro)": "535€/mese",
+        "Area (m²)": "119",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere San Donato"
+    },
+    {
+        "Title": "Camera in via Salvatore Farina, 5, Santa Rita, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Salvatore Farina, 5"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "495€/mese",
+        "Area (m²)": "70",
+        "Floor": "8",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in via Paolo Sacchi, 52, Crocetta, Torino",
+        "Price (Euro)": "430€/mese",
+        "Area (m²)": "111",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Paolo Sacchi, 52"
+    },
+    {
+        "Title": "Camera in via Volvera, 13, Borgo San Paolo, Torino",
+        "Price (Euro)": "480€/mese",
+        "Area (m²)": "130",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Volvera, 13"
+    },
+    {
+        "Title": "Camera in via Goito, 14, San Salvario, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "165",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "1",
+        "Location": "Via Goito, 14"
+    },
+    {
+        "Title": "Camera in via Giovanni Camerana, 14, Crocetta, Torino",
+        "Price (Euro)": "235€/mese",
+        "Area (m²)": "120",
+        "Floor": "3",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Giovanni Camerana, 14"
+    },
+    {
+        "Title": "Camera in strada Vicinale dei Biasonetti, 8, Barca, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "120",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Strada Vicinale dei Biasonetti, 8"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "800€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in corso Mediterraneo, 120, Crocetta, Torino",
+        "Price (Euro)": "430€/mese",
+        "Area (m²)": "120",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Mediterraneo, 120"
+    },
+    {
+        "Title": "Camera in corso Taranto, 137, Regio Parco, Torino",
+        "Price (Euro)": "290€/mese",
+        "Area (m²)": "123",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Taranto, 137"
+    },
+    {
+        "Title": "Camera in via Sant'Antonino, 54, Pozzo Strada, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "120",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Sant'Antonino, 54"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.030€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera in via Francesco Morosini, 17, Crocetta, Torino",
+        "Price (Euro)": "520€/mese",
+        "Area (m²)": "20",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Francesco Morosini, 17"
+    },
+    {
+        "Title": "Camera in via Cristalliera, 18, Pozzo Strada, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Cristalliera, 18"
+    },
+    {
+        "Title": "Camera in via Vanchiglia, 41, Vanchiglia, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "50",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Vanchiglia, 41"
+    },
+    {
+        "Title": "Camera a Crocetta, Torino",
+        "Price (Euro)": "455€/mese",
+        "Area (m²)": "97",
+        "Floor": "N/A",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Zona Crocetta"
+    },
+    {
+        "Title": "Camera in corso IV Novembre, 16, Santa Rita, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "60",
+        "Floor": "5",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso IV Novembre, 16"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "825€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "825€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in corso Trapani, 28, Pozzo Strada, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Trapani, 28"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.090€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera in via Riccardo Sineo, 9, Vanchiglia, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "85",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Riccardo Sineo, 9"
+    },
+    {
+        "Title": "Camera a Santa Rita, Torino",
+        "Price (Euro)": "540€/mese",
+        "Area (m²)": "186",
+        "Floor": "3",
+        "Rooms": "7",
+        "Bathrooms": "3",
+        "Location": "Quartiere Santa Rita"
+    },
+    {
+        "Title": "Camera a San Donato, Torino",
+        "Price (Euro)": "535€/mese",
+        "Area (m²)": "125",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere San Donato"
+    },
+    {
+        "Title": "Camera in via Vanchiglia, 41, Vanchiglia, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "60",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Vanchiglia, 41"
+    },
+    {
+        "Title": "Camera in via Santa Giulia, 23, Vanchiglia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Santa Giulia, 23"
+    },
+    {
+        "Title": "Camera in via San Giovanni Battista la Salle, 16, Aurora, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "130",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via San Giovanni Battista la Salle, 16"
+    },
+    {
+        "Title": "Camera in via Salvatore Farina, 5, Santa Rita, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Salvatore Farina, 5"
+    },
+    {
+        "Title": "Camera in via Onorato Vigliani, 201, Mirafiori Sud, Torino",
+        "Price (Euro)": "272€/mese",
+        "Area (m²)": "85",
+        "Floor": "7",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Onorato Vigliani, 201"
+    },
+    {
+        "Title": "Camera in via Genova, 8, Nizza Millefonti, Torino",
+        "Price (Euro)": "445€/mese",
+        "Area (m²)": "80",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Genova, 8"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "800€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera in corso Lecce, 72, Campidoglio, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "15",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Lecce, 72"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.180€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera in via Goito, 14, San Salvario, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "165",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "1",
+        "Location": "Via Goito, 14"
+    },
+    {
+        "Title": "Camera in via Vanchiglia, 41, Vanchiglia, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "60",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Vanchiglia, 41"
+    },
+    {
+        "Title": "Camera in via Paolo Sacchi, 52, Crocetta, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "111",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Paolo Sacchi, 52"
+    },
+    {
+        "Title": "Camera in via Tirreno, 189, Santa Rita, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "87",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Tirreno, 189"
+    },
+    {
+        "Title": "Camera in via Riccardo Sineo, 9, Vanchiglia, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "85",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Riccardo Sineo, 9"
+    },
+    {
+        "Title": "Camera in piazza Pietro Paleocapa, 4, Centro, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "80",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Piazza Pietro Paleocapa, 4"
+    },
+    {
+        "Title": "Camera in corso Taranto, 137, Regio Parco, Torino",
+        "Price (Euro)": "290€/mese",
+        "Area (m²)": "123",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Taranto, 137"
+    },
+    {
+        "Title": "Camera in via Bergamo, 8, Aurora, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "70",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Bergamo, 8"
+    },
+    {
+        "Title": "Camera in via Paolo Sacchi, 52, Crocetta, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "111",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Paolo Sacchi, 52"
+    },
+    {
+        "Title": "Camera a Barriera di Milano, Torino",
+        "Price (Euro)": "1.180€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Quartiere Barriera di Milano"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "565€/mese",
+        "Area (m²)": "185",
+        "Floor": "4",
+        "Rooms": "9",
+        "Bathrooms": "4",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Centro, Torino",
+        "Price (Euro)": "565€/mese",
+        "Area (m²)": "185",
+        "Floor": "4",
+        "Rooms": "9",
+        "Bathrooms": "4",
+        "Location": "Zona Centro"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "185",
+        "Floor": "N/A",
+        "Rooms": "9",
+        "Bathrooms": "9",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "570€/mese",
+        "Area (m²)": "14",
+        "Floor": "N/A",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera in via Po, 20, Centro, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "25",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Po, 20"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "570€/mese",
+        "Area (m²)": "14",
+        "Floor": "N/A",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera a Filadelfia, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "155",
+        "Floor": "2",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Quartiere Filadelfia"
+    },
+    {
+        "Title": "Camera a Aurora, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "65",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Quartiere Aurora"
+    },
+    {
+        "Title": "Camera a San Salvario, Torino",
+        "Price (Euro)": "650€/mese",
+        "Area (m²)": "185",
+        "Floor": "N/A",
+        "Rooms": "9",
+        "Bathrooms": "9",
+        "Location": "Zona San Salvario"
+    },
+    {
+        "Title": "Camera a Filadelfia, Torino",
+        "Price (Euro)": "590€/mese",
+        "Area (m²)": "86",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Quartiere Filadelfia"
+    },
+    {
+        "Title": "Camera in via Giordano Bruno, 201, Filadelfia, Torino",
+        "Price (Euro)": "495€/mese",
+        "Area (m²)": "110",
+        "Floor": "4",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Giordano Bruno, 201"
+    },
+    {
+        "Title": "Camera in corso Eusebio Giambone, 7, Filadelfia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "80",
+        "Floor": "8",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Corso Eusebio Giambone, 7"
+    },
+    {
+        "Title": "Camera in via Vanchiglia, 39, Vanchiglia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "82",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Vanchiglia, 39"
+    },
+    {
+        "Title": "Camera in corso Filippo Turati, 59, Crocetta, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "109",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Corso Filippo Turati, 59"
+    },
+    {
+        "Title": "Camera in corso Giulio Cesare, 63, Aurora, Torino",
+        "Price (Euro)": "310€/mese",
+        "Area (m²)": "165",
+        "Floor": "5",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Corso Giulio Cesare, 63"
+    },
+    {
+        "Title": "Camera in corso Regina Margherita, 233, San Donato, Torino",
+        "Price (Euro)": "320€/mese",
+        "Area (m²)": "80",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Regina Margherita, 233"
+    },
+    {
+        "Title": "Camera in via Brindisi, 4, Aurora, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "72",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Brindisi, 4"
+    },
+    {
+        "Title": "Camera in corso Svizzera, 145, Parco Dora, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "17",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Corso Svizzera, 145"
+    },
+    {
+        "Title": "Camera in via Riccardo Sineo, 9, Vanchiglia, Torino",
+        "Price (Euro)": "335€/mese",
+        "Area (m²)": "125",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Riccardo Sineo, 9"
+    },
+    {
+        "Title": "Camera in via Bologna, 147, Barriera di Milano, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Bologna, 147"
+    },
+    {
+        "Title": "Camera in via Valentino Carrera, 1, Parella, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Valentino Carrera, 1"
+    },
+    {
+        "Title": "Camera in corso Vittorio Emanuele II, 160, Cit Turin, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "100",
+        "Floor": "4",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Corso Vittorio Emanuele II, 160"
+    },
+    {
+        "Title": "Camera in corso Unione Sovietica, 233, Filadelfia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Unione Sovietica, 233"
+    },
+    {
+        "Title": "Camera in via Santa Maria Mazzarello, 30, Borgata Lesna, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "190",
+        "Floor": "4",
+        "Rooms": "8",
+        "Bathrooms": "2",
+        "Location": "Via Santa Maria Mazzarello, 30"
+    },
+    {
+        "Title": "Camera in corso Filippo Turati, 45, Crocetta, Torino",
+        "Price (Euro)": "700€/mese",
+        "Area (m²)": "230",
+        "Floor": "5",
+        "Rooms": "10",
+        "Bathrooms": "3",
+        "Location": "Corso Filippo Turati, 45"
+    },
+    {
+        "Title": "Camera in Cristalliera, 18, Pozzo Strada, Torino",
+        "Price (Euro)": "375€/mese",
+        "Area (m²)": "18",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Cristalliera, 18"
+    },
+    {
+        "Title": "Camera in via Pordenone, 6, Santa Rita, Torino",
+        "Price (Euro)": "430€/mese",
+        "Area (m²)": "97",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Pordenone, 6"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "160",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in via Gioacchino Quarello, s.n.c, Mirafiori Sud, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "100",
+        "Floor": "8",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Gioacchino Quarello s.n.c"
+    },
+    {
+        "Title": "Camera in via Stefano Maria Clemente, 22, San Donato, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "210",
+        "Floor": "1",
+        "Rooms": "8",
+        "Bathrooms": "2",
+        "Location": "Via Stefano Maria Clemente, 22"
+    },
+    {
+        "Title": "Camera in via Sant'Anselmo, 25, San Salvario, Torino",
+        "Price (Euro)": "680€/mese",
+        "Area (m²)": "170",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Sant'Anselmo, 25"
+    },
+    {
+        "Title": "Camera in corso Unione Sovietica, 233, Filadelfia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "115",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Unione Sovietica, 233"
+    },
+    {
+        "Title": "Camera in via Eleonora d'Arborea, 5, Mirafiori Nord, Torino",
+        "Price (Euro)": "590€/mese",
+        "Area (m²)": "134",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "5",
+        "Location": "Via Eleonora d'Arborea, 5"
+    },
+    {
+        "Title": "Camera in via Gaetano Donizetti, 7, San Salvario, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "95",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Gaetano Donizetti, 7"
+    },
+    {
+        "Title": "Camera in corso Unione Sovietica, 233, Filadelfia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "115",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Unione Sovietica, 233"
+    },
+    {
+        "Title": "Camera in corso Potenza, 6 /c, San Donato, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Corso Potenza, 6 /c"
+    },
+    {
+        "Title": "Camera in via Nino Oxilia, 48, Rebaudengo, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "55",
+        "Floor": "3",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Nino Oxilia, 48"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "160",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in via Saint Bon, 53, Aurora, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Saint Bon, 53"
+    },
+    {
+        "Title": "Camera in via Lazzaro Spallanzani, 15, Santa Rita, Torino",
+        "Price (Euro)": "415€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Lazzaro Spallanzani, 15"
+    },
+    {
+        "Title": "Camera in via Dante Di Nanni, 72, Cenisia, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "68",
+        "Floor": "3",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Dante Di Nanni, 72"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in via Gioacchino Quarello, s.n.c, Mirafiori Sud, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "100",
+        "Floor": "8",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Gioacchino Quarello s.n.c"
+    },
+    {
+        "Title": "Camera in via Massena, 67, Crocetta, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "120",
+        "Floor": "3",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Massena, 67"
+    },
+    {
+        "Title": "Camera in via Eleonora d'Arborea, 5, Mirafiori Nord, Torino",
+        "Price (Euro)": "570€/mese",
+        "Area (m²)": "134",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Eleonora d'Arborea, 5"
+    },
+    {
+        "Title": "Camera in via Matteo Pescatore, 15, Centro, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "156",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Matteo Pescatore, 15"
+    },
+    {
+        "Title": "Camera in via Genova, 20 bis, Nizza Millefonti, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "120",
+        "Floor": "4",
+        "Rooms": "7",
+        "Bathrooms": "3",
+        "Location": "Via Genova, 20 bis"
+    },
+    {
+        "Title": "Camera in via Eleonora d'Arborea, 5, Mirafiori Nord, Torino",
+        "Price (Euro)": "590€/mese",
+        "Area (m²)": "134",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "5",
+        "Location": "Via Eleonora d'Arborea, 5"
+    },
+    {
+        "Title": "Camera in Cristalliera, 18, Pozzo Strada, Torino",
+        "Price (Euro)": "375€/mese",
+        "Area (m²)": "18",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Cristalliera, 18"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "160",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in via Valentino Carrera, 1, Parella, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Valentino Carrera, 1"
+    },
+    {
+        "Title": "Camera in corso Gaetano Salvemini, 45, Centro Europa, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "120",
+        "Floor": "6",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Gaetano Salvemini, 45"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "200",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in via San Bernardino, 31, Borgo San Paolo, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "80",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via San Bernardino, 31"
+    },
+    {
+        "Title": "Camera in via Massena, 67, Crocetta, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "8",
+        "Bathrooms": "2",
+        "Location": "Via Massena, 67"
+    },
+    {
+        "Title": "Camera in corso Vittorio Emanuele II, 160, Cit Turin, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "100",
+        "Floor": "4",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Corso Vittorio Emanuele II, 160"
+    },
+    {
+        "Title": "Camera in via Eleonora d'Arborea, 5, Mirafiori Nord, Torino",
+        "Price (Euro)": "570€/mese",
+        "Area (m²)": "134",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Eleonora d'Arborea, 5"
+    },
+    {
+        "Title": "Camera in via Lazzaro Spallanzani, 15, Santa Rita, Torino",
+        "Price (Euro)": "415€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Lazzaro Spallanzani, 15"
+    },
+    {
+        "Title": "Camera in via Maria Vittoria, 1, Centro, Torino",
+        "Price (Euro)": "470€/mese",
+        "Area (m²)": "70",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Maria Vittoria, 1"
+    },
+    {
+        "Title": "Camera in via Saint Bon, 53, Aurora, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "90",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Saint Bon, 53"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "180",
+        "Floor": "N/A",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in via Buniva, 13, Vanchiglia, Torino",
+        "Price (Euro)": "690€/mese",
+        "Area (m²)": "85",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Buniva, 13"
+    },
+    {
+        "Title": "Camera in via Monginevro, 27, Cenisia, Torino",
+        "Price (Euro)": "390€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Monginevro, 27"
+    },
+    {
+        "Title": "Camera in corso Unione Sovietica, 233, Filadelfia, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "115",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Unione Sovietica, 233"
+    },
+    {
+        "Title": "Camera in via Sant'Anselmo, 25, San Salvario, Torino",
+        "Price (Euro)": "680€/mese",
+        "Area (m²)": "170",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Sant'Anselmo, 25"
+    },
+    {
+        "Title": "Camera in via degli Artisti, 14, Vanchiglia, Torino",
+        "Price (Euro)": "490€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via degli Artisti, 14"
+    },
+    {
+        "Title": "Camera in via Rivalta, 24, Borgo San Paolo, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Rivalta, 24"
+    },
+    {
+        "Title": "Camera in via Pietro Bagetti, 27, Cit Turin, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "192",
+        "Floor": "N/A",
+        "Rooms": "10",
+        "Bathrooms": "2",
+        "Location": "Via Pietro Bagetti, 27"
+    },
+    {
+        "Title": "Camera in strada Vicinale dei Biasonetti, 8, Barca, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "130",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Strada Vicinale dei Biasonetti, 8"
+    },
+    {
+        "Title": "Camera in via Pordenone, 6, Santa Rita, Torino",
+        "Price (Euro)": "430€/mese",
+        "Area (m²)": "97",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Pordenone, 6"
+    },
+    {
+        "Title": "Camera in via Giuseppe Baretti, 26, San Salvario, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "140",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Giuseppe Baretti, 26"
+    },
+    {
+        "Title": "Camera in via Stefano Maria Clemente, 22, San Donato, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "210",
+        "Floor": "1",
+        "Rooms": "8",
+        "Bathrooms": "2",
+        "Location": "Via Stefano Maria Clemente, 22"
+    },
+    {
+        "Title": "Camera in via Zumaglia, 9, Parella, Torino",
+        "Price (Euro)": "280€/mese",
+        "Area (m²)": "110",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Zumaglia, 9"
+    },
+    {
+        "Title": "Camera in via Sant'Anselmo, 25, San Salvario, Torino",
+        "Price (Euro)": "680€/mese",
+        "Area (m²)": "170",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Sant'Anselmo, 25"
+    },
+    {
+        "Title": "Camera in via Nino Oxilia, 48, Rebaudengo, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "55",
+        "Floor": "3",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Nino Oxilia, 48"
+    },
+    {
+        "Title": "Camera in strada Vicinale dei Biasonetti, 8, Barca, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "130",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Strada Vicinale dei Biasonetti, 8"
+    },
+    {
+        "Title": "Camera in via Filadelfia, 25, Filadelfia, Torino",
+        "Price (Euro)": "190€/mese",
+        "Area (m²)": "78",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Filadelfia, 25"
+    },
+    {
+        "Title": "Camera in corso Salvemini Gaetano, 45, Centro Europa, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Salvemini Gaetano, 45"
+    },
+    {
+        "Title": "Camera in via Gianfrancesco Fiochetto, 3, Aurora, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "69",
+        "Floor": "1",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Gianfrancesco Fiochetto, 3"
+    },
+    {
+        "Title": "Camera in via Antonio Vagnone, 1, San Donato, Torino",
+        "Price (Euro)": "220€/mese",
+        "Area (m²)": "100",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Antonio Vagnone, 1"
+    },
+    {
+        "Title": "Camera in corso Gaetano Salvemini, 45, Centro Europa, Torino",
+        "Price (Euro)": "530€/mese",
+        "Area (m²)": "120",
+        "Floor": "6",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Gaetano Salvemini, 45"
+    },
+    {
+        "Title": "Camera in via Boston, 22 /5, Santa Rita, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "135",
+        "Floor": "2",
+        "Rooms": "6",
+        "Bathrooms": "2",
+        "Location": "Via Boston, 22 /5"
+    },
+    {
+        "Title": "Camera in via Eleonora d'Arborea, 5, Mirafiori Nord, Torino",
+        "Price (Euro)": "570€/mese",
+        "Area (m²)": "134",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Eleonora d'Arborea, 5"
+    },
+    {
+        "Title": "Camera in via Gaetano Donizetti, 7, San Salvario, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "95",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Gaetano Donizetti, 7"
+    },
+    {
+        "Title": "Camera in via Gioacchino Quarello, s.n.c, Mirafiori Sud, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "100",
+        "Floor": "8",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Gioacchino Quarello s.n.c"
+    },
+    {
+        "Title": "Camera in via Monginevro, 27, Cenisia, Torino",
+        "Price (Euro)": "390€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Monginevro, 27"
+    },
+    {
+        "Title": "Camera in via Lazzaro Spallanzani, 15, Santa Rita, Torino",
+        "Price (Euro)": "415€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Lazzaro Spallanzani, 15"
+    },
+    {
+        "Title": "Camera in corso Svizzera, 36, Campidoglio, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "180",
+        "Floor": "4",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Corso Svizzera, 36"
+    },
+    {
+        "Title": "Camera in via Valentino Carrera, s.n.c, Parella, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "20",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Valentino Carrera s.n.c"
+    },
+    {
+        "Title": "Camera in strada dei biasonetti, s.n.c, Centro, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "150",
+        "Floor": "N/A",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Strada dei biasonetti s.n.c"
+    },
+    {
+        "Title": "Camera in via San Paolo, 63, Borgo San Paolo, Torino",
+        "Price (Euro)": "325€/mese",
+        "Area (m²)": "40",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via San Paolo, 63"
+    },
+    {
+        "Title": "Camera in via Val Lagarina, 22, Pozzo Strada, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "67",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Val Lagarina, 22"
+    },
+    {
+        "Title": "Camera in via Giuseppe Baretti, 32, San Salvario, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "75",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Giuseppe Baretti, 32"
+    },
+    {
+        "Title": "Camera a Campidoglio, Torino",
+        "Price (Euro)": "470€/mese",
+        "Area (m²)": "65",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Quartiere Campidoglio"
+    },
+    {
+        "Title": "Camera in via Luigi Des Ambrois, 2, Centro, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Luigi Des Ambrois, 2"
+    },
+    {
+        "Title": "Camera in via bellono, 12, Centro Europa, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via bellono, 12"
+    },
+    {
+        "Title": "Camera in via Filadelfia, 41, Filadelfia, Torino",
+        "Price (Euro)": "250€/mese",
+        "Area (m²)": "75",
+        "Floor": "6",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Filadelfia, 41"
+    },
+    {
+        "Title": "Camera in via Malta, 9, Borgo San Paolo, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "110",
+        "Floor": "5",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Malta, 9"
+    },
+    {
+        "Title": "Camera in via Ascanio Sobrero, 26, San Donato, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "90",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Ascanio Sobrero, 26"
+    },
+    {
+        "Title": "Camera in via Monginevro, 182, Pozzo Strada, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "105",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Monginevro, 182"
+    },
+    {
+        "Title": "Camera in via Claviere, 8, Pozzo Strada, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "90",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Claviere, 8"
+    },
+    {
+        "Title": "Camera in corso Carlo e Nello Rosselli, 161, Borgo San Paolo, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Corso Carlo e Nello Rosselli, 161"
+    },
+    {
+        "Title": "Camera in corso Carlo e Nello Rosselli, 161, Borgo San Paolo, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Corso Carlo e Nello Rosselli, 161"
+    },
+    {
+        "Title": "Camera in via Villarbasse, 36, Borgo San Paolo, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "60",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Villarbasse, 36"
+    },
+    {
+        "Title": "Camera in via Filadelfia, 181, Santa Rita, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "18",
+        "Floor": "3",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Filadelfia, 181"
+    },
+    {
+        "Title": "Camera in via vezzolano, 9, Vanchiglietta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via vezzolano, 9"
+    },
+    {
+        "Title": "Camera in corso Giulio Cesare, 97 bis, Barriera di Milano, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Giulio Cesare, 97 bis"
+    },
+    {
+        "Title": "Camera in via vezzolano, 9, Vanchiglietta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via vezzolano, 9"
+    },
+    {
+        "Title": "Camera in corso Regina Margherita, 264, San Donato, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Regina Margherita, 264"
+    },
+    {
+        "Title": "Camera in via Ilarione Petitti, 27, San Salvario, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "5",
+        "Bathrooms": "1",
+        "Location": "Via Ilarione Petitti, 27"
+    },
+    {
+        "Title": "Camera in via vezzolano, 9, Vanchiglietta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via vezzolano, 9"
+    },
+    {
+        "Title": "Camera in corso Orbassano, 298, Centro Europa, Torino",
+        "Price (Euro)": "320€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Corso Orbassano, 298"
+    },
+    {
+        "Title": "Camera in via Dante Di Nanni, 80, Cenisia, Torino",
+        "Price (Euro)": "270€/mese",
+        "Area (m²)": "70",
+        "Floor": "1",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Dante Di Nanni, 80"
+    },
+    {
+        "Title": "Camera in via Giuseppe Baretti, 22, San Salvario, Torino",
+        "Price (Euro)": "200€/mese",
+        "Area (m²)": "70",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Giuseppe Baretti, 22"
+    },
+    {
+        "Title": "Camera in via Giulia di Barolo, 19, Vanchiglia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "140",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Giulia di Barolo, 19"
+    },
+    {
+        "Title": "Camera in via Pierluigi Palestrina, 41, Barriera di Milano, Torino",
+        "Price (Euro)": "460€/mese",
+        "Area (m²)": "120",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Pierluigi Palestrina, 41"
+    },
+    {
+        "Title": "Camera in nigra, 51, Borgo Vittoria, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "65",
+        "Floor": "3",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "nigra, 51"
+    },
+    {
+        "Title": "Camera in via Don Bosco, 90, San Donato, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Don Bosco, 90"
+    },
+    {
+        "Title": "Camera in corso Trapani, 30, Pozzo Strada, Torino",
+        "Price (Euro)": "375€/mese",
+        "Area (m²)": "100",
+        "Floor": "N/A",
+        "Rooms": "6",
+        "Bathrooms": "3",
+        "Location": "Corso Trapani, 30"
+    },
+    {
+        "Title": "Camera in via Pierluigi Palestrina, 41, Barriera di Milano, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "120",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Pierluigi Palestrina, 41"
+    },
+    {
+        "Title": "Camera in via Genova, 243, Nizza Millefonti, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "60",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "2",
+        "Location": "Via Genova, 243"
+    },
+    {
+        "Title": "Camera in corso galileo ferraris, 149, Crocetta, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "120",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Corso galileo ferraris, 149"
+    },
+    {
+        "Title": "Camera in via Leinì, 97, Barriera di Milano, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "70",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Leinì, 97"
+    },
+    {
+        "Title": "Camera in via Don Bosco, 86, San Donato, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Don Bosco, 86"
+    },
+    {
+        "Title": "Camera in via Pierluigi Palestrina, 41, Barriera di Milano, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "90",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Pierluigi Palestrina, 41"
+    },
+    {
+        "Title": "Camera in via Plava, 137, Mirafiori Sud, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "28",
+        "Floor": "7",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Plava , 137"
+    },
+    {
+        "Title": "Camera in via plava, 137, Mirafiori Sud, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "130",
+        "Floor": "7",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via plava, 137"
+    },
+    {
+        "Title": "Camera in via Errico Giachino, 71, Borgo Vittoria, Torino",
+        "Price (Euro)": "190€/mese",
+        "Area (m²)": "88",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Errico Giachino, 71"
+    },
+    {
+        "Title": "Camera in via Belfiore, 5, San Salvario, Torino",
+        "Price (Euro)": "390€/mese",
+        "Area (m²)": "156",
+        "Floor": "1",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Belfiore, 5"
+    },
+    {
+        "Title": "Camera in via Felice Romani, 2 /e, Gran Madre di Dio, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "100",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Felice Romani, 2 /E"
+    },
+    {
+        "Title": "Camera in via plava, 137, Mirafiori Sud, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "130",
+        "Floor": "7",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via plava, 137"
+    },
+    {
+        "Title": "Camera in via vezzolano, 9, Vanchiglietta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via vezzolano, 9"
+    },
+    {
+        "Title": "Camera in strada delle Cacce, 38, Mirafiori Sud, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "130",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Strada delle Cacce, 38"
+    },
+    {
+        "Title": "Camera in via Pierluigi Palestrina, 41, Barriera di Milano, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "90",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Pierluigi Palestrina, 41"
+    },
+    {
+        "Title": "Camera in via plava, 137, Mirafiori Sud, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "130",
+        "Floor": "7",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via plava, 137"
+    },
+    {
+        "Title": "Camera in via Don Bosco, 86, San Donato, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Don Bosco, 86"
+    },
+    {
+        "Title": "Camera in via Pierluigi Palestrina, 41, Barriera di Milano, Torino",
+        "Price (Euro)": "360€/mese",
+        "Area (m²)": "120",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Pierluigi Palestrina, 41"
+    },
+    {
+        "Title": "Camera in via vezzolano, 9, Vanchiglietta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "110",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via vezzolano, 9"
+    },
+    {
+        "Title": "Camera in via Plava, 137, Mirafiori Sud, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "28",
+        "Floor": "7",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Via Plava , 137"
+    },
+    {
+        "Title": "Camera in via Giulia di Barolo, 19, Vanchiglia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "140",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Giulia di Barolo, 19"
+    },
+    {
+        "Title": "Camera in via Don Bosco, 87, San Donato, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "75",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Don Bosco, 87"
+    },
+    {
+        "Title": "Camera in via Giuseppe Baretti, 22, San Salvario, Torino",
+        "Price (Euro)": "200€/mese",
+        "Area (m²)": "70",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Giuseppe Baretti, 22"
+    },
+    {
+        "Title": "Camera in via Rovigo, 25, Aurora, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "75",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Rovigo, 25"
+    },
+    {
+        "Title": "Camera in via Massena, 67, Crocetta, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "130",
+        "Floor": "3",
+        "Rooms": "7",
+        "Bathrooms": "2",
+        "Location": "Via Massena, 67"
+    },
+    {
+        "Title": "Camera in via Pallanza, s.n.c, Vanchiglietta, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "20",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Pallanza s.n.c"
+    },
+    {
+        "Title": "Camera in piazza Rivoli, s.n.c, Cit Turin, Torino",
+        "Price (Euro)": "420€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Piazza Rivoli s.n.c"
+    },
+    {
+        "Title": "Camera in via Domodossola, s.n.c, Parella, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "20",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Domodossola s.n.c"
+    },
+    {
+        "Title": "Camera in corso Mediterraneo, s.n.c, Crocetta, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "90",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Corso Mediterraneo s.n.c"
+    },
+    {
+        "Title": "Camera in via delle magnolie, 10, Vallette, Torino",
+        "Price (Euro)": "450€/mese",
+        "Area (m²)": "60",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via delle magnolie, 10"
+    },
+    {
+        "Title": "Camera in via Baltimora, 99, Santa Rita, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "80",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Baltimora, 99"
+    },
+    {
+        "Title": "Camera in via San Paolo, 63, Borgo San Paolo, Torino",
+        "Price (Euro)": "325€/mese",
+        "Area (m²)": "40",
+        "Floor": "N/A",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via San Paolo, 63"
+    },
+    {
+        "Title": "Camera in via Giuseppe Giusti, 56 /24, Centro, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "70",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Giuseppe Giusti, 56 /24"
+    },
+    {
+        "Title": "Camera in piazza Sabotino, 10, Borgo San Paolo, Torino",
+        "Price (Euro)": "630€/mese",
+        "Area (m²)": "75",
+        "Floor": "1",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Piazza Sabotino, 10"
+    },
+    {
+        "Title": "Camera in corso Peschiera, 5, Borgo San Paolo, Torino",
+        "Price (Euro)": "600€/mese",
+        "Area (m²)": "50",
+        "Floor": "5",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Corso Peschiera, 5"
+    },
+    {
+        "Title": "Camera in via Gambasca, 5, Cenisia, Torino",
+        "Price (Euro)": "630€/mese",
+        "Area (m²)": "70",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Gambasca, 5"
+    },
+    {
+        "Title": "Camera in via Villarbasse, 5, Cenisia, Torino",
+        "Price (Euro)": "630€/mese",
+        "Area (m²)": "70",
+        "Floor": "1",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Villarbasse, 5"
+    },
+    {
+        "Title": "Camera in via Gian Domenico Cassini, 57, Crocetta, Torino",
+        "Price (Euro)": "300€/mese",
+        "Area (m²)": "70",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Gian Domenico Cassini, 57"
+    },
+    {
+        "Title": "Camera in via Togliatti, 23, Mirafiori Sud, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "102",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Togliatti, 23"
+    },
+    {
+        "Title": "Camera in via Principe Tommaso, 14 b, San Salvario, Torino",
+        "Price (Euro)": "480€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Principe Tommaso, 14 b"
+    },
+    {
+        "Title": "Camera in via Isernia, 11, Lucento, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "88",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Isernia, 11"
+    },
+    {
+        "Title": "Camera in piazza Ruggero Bonghi, 20, Madonna di Campagna, Torino",
+        "Price (Euro)": "280€/mese",
+        "Area (m²)": "100",
+        "Floor": "8",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Piazza Ruggero Bonghi, 20"
+    },
+    {
+        "Title": "Camera in via Borgomanero, 46, Parella, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "130",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Borgomanero, 46"
+    },
+    {
+        "Title": "Camera in via Borgomanero, 46, Parella, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "130",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Via Borgomanero, 46"
+    },
+    {
+        "Title": "Camera in via Ventimiglia, 76, Nizza Millefonti, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "110",
+        "Floor": "6",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Ventimiglia, 76"
+    },
+    {
+        "Title": "Camera in via Spoleto, 2, San Donato, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "95",
+        "Floor": "6",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Spoleto, 2"
+    },
+    {
+        "Title": "Camera in via Somalia, 104, Mirafiori Sud, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "35",
+        "Floor": "6",
+        "Rooms": "1",
+        "Bathrooms": "1",
+        "Location": "Via Somalia, 104"
+    },
+    {
+        "Title": "Camera in via Ventimiglia, 76, Nizza Millefonti, Torino",
+        "Price (Euro)": "520€/mese",
+        "Area (m²)": "110",
+        "Floor": "6",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Ventimiglia, 76"
+    },
+    {
+        "Title": "Camera in via Vittoria, 35, Borgo Vittoria, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "75",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "2",
+        "Location": "Via Vittoria, 35"
+    },
+    {
+        "Title": "Camera in via Rosazza, 6, Vanchiglietta, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "70",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Rosazza, 6"
+    },
+    {
+        "Title": "Camera in corso Vittorio Emanuele II, 10, Centro, Torino",
+        "Price (Euro)": "750€/mese",
+        "Area (m²)": "150",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Corso Vittorio Emanuele II, 10"
+    },
+    {
+        "Title": "Camera in via Pallanza, 12, Vanchiglietta, Torino",
+        "Price (Euro)": "330€/mese",
+        "Area (m²)": "70",
+        "Floor": "4",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Pallanza, 12"
+    },
+    {
+        "Title": "Camera in via Maria Vittoria, 35, Centro, Torino",
+        "Price (Euro)": "370€/mese",
+        "Area (m²)": "70",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "2",
+        "Location": "Via Maria Vittoria, 35"
+    },
+    {
+        "Title": "Camera in corso Traiano, 17, Lingotto, Torino",
+        "Price (Euro)": "240€/mese",
+        "Area (m²)": "75",
+        "Floor": "7",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Corso Traiano, 17"
+    },
+    {
+        "Title": "Camera in via Pasquale Paoli, 52, Filadelfia, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "75",
+        "Floor": "1",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via Pasquale Paoli, 52"
+    },
+    {
+        "Title": "Camera in via Valentino Carrera, 7, Parella, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "65",
+        "Floor": "3",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Valentino Carrera, 7"
+    },
+    {
+        "Title": "Camera in via Tempio Pausania, 1, Mirafiori Nord, Torino",
+        "Price (Euro)": "280€/mese",
+        "Area (m²)": "85",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Tempio Pausania, 1"
+    },
+    {
+        "Title": "Camera in via degli Approcci, 12 /b, Borgo Vittoria, Torino",
+        "Price (Euro)": "1.000€/mese",
+        "Area (m²)": "45",
+        "Floor": "N/A",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Via degli Approcci, 12 /b"
+    },
+    {
+        "Title": "Camera in corso Lombardia, 160, Lucento, Torino",
+        "Price (Euro)": "550€/mese",
+        "Area (m²)": "105",
+        "Floor": "1",
+        "Rooms": "5",
+        "Bathrooms": "2",
+        "Location": "Corso Lombardia, 160"
+    },
+    {
+        "Title": "Camera in via Ventimiglia, 300, Mirafiori Sud, Torino",
+        "Price (Euro)": "500€/mese",
+        "Area (m²)": "70",
+        "Floor": "2",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Ventimiglia, 300"
+    },
+    {
+        "Title": "Camera in piazza Tancredi Galimberti, 4, Filadelfia, Torino",
+        "Price (Euro)": "380€/mese",
+        "Area (m²)": "60",
+        "Floor": "2",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Piazza Tancredi Galimberti, 4"
+    },
+    {
+        "Title": "Camera in Paolo braccini 50, 50, Borgo San Paolo, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "70",
+        "Floor": "N/A",
+        "Rooms": "2",
+        "Bathrooms": "1",
+        "Location": "Paolo braccini 50, 50"
+    },
+    {
+        "Title": "Camera in via Renato Martorelli, 20, Barriera di Milano, Torino",
+        "Price (Euro)": "270€/mese",
+        "Area (m²)": "75",
+        "Floor": "1",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Renato Martorelli, 20"
+    },
+    {
+        "Title": "Camera in via Bardonecchia, 200, Pozzo Strada, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "3",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Bardonecchia, 200"
+    },
+    {
+        "Title": "Camera in strada Antica di Grugliasco, 273, Borgata Lesna, Torino",
+        "Price (Euro)": "280€/mese",
+        "Area (m²)": "80",
+        "Floor": "N/A",
+        "Rooms": "4",
+        "Bathrooms": "1",
+        "Location": "Strada Antica di Grugliasco, 273"
+    },
+    {
+        "Title": "Camera in via Giovanni Roveda, 14, Mirafiori Sud, Torino",
+        "Price (Euro)": "250€/mese",
+        "Area (m²)": "120",
+        "Floor": "4",
+        "Rooms": "4",
+        "Bathrooms": "2",
+        "Location": "Via Giovanni Roveda, 14"
+    },
+    {
+        "Title": "Camera in via Anton Giulio Barrili, 25, Santa Rita, Torino",
+        "Price (Euro)": "400€/mese",
+        "Area (m²)": "80",
+        "Floor": "2",
+        "Rooms": "3",
+        "Bathrooms": "2",
+        "Location": "Via Anton Giulio Barrili, 25"
+    },
+    {
+        "Title": "Camera in via Pietro Piffetti, 35, San Donato, Torino",
+        "Price (Euro)": "350€/mese",
+        "Area (m²)": "100",
+        "Floor": "N/A",
+        "Rooms": "3",
+        "Bathrooms": "1",
+        "Location": "Via Pietro Piffetti, 35"
+    }
+]
