@@ -1,5 +1,6 @@
 # Geospatial
-This project investigates how spatial accessibility to university hubs affects apartment prices for students in Turin, Italy. Using spatial econometric techniques it integrates public GTFS transit data, housing listings, and university location data to assess both direct and spillover effects of housing attributes and connection to academic centers. [CLICK HERE FOR THE REPORT](./Geospatial.pdf)
+This project investigates how spatial accessibility to university hubs affects apartment prices for students in Turin, Italy. Using spatial econometric techniques it integrates public GTFS transit data, housing listings, and university location data to assess both direct and spillover effects of housing attributes and connection to academic centers. [CLICK HERE FOR THE REPORT](./Geospatial.pdf) [CLICK HERE FOR THE CODE](./project.ipynb)
+
 
 It may be required to first run `pip install -r requirements.txt`
 
